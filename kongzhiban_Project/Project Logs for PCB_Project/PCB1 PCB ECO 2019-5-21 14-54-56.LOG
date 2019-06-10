@@ -1,4 +1,0 @@
-Added Component: Designator=ANT1(L4G3210)
-Added Pin To Net: NetName=NetANT1_1 Pin=ANT1-1
-Added Member To Class: ClassName=Sheet1 Member=Component ANT1 PAD
-Added Room: Name=Sheet1

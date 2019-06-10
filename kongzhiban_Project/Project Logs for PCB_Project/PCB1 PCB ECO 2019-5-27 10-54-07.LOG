@@ -1,9 +1,0 @@
-Added Component: Designator=J4(SIP1X5-2R54)
-Added Pin To Net: NetName=GND Pin=J4-1
-Added Pin To Net: NetName=NRST Pin=J4-2
-Added Pin To Net: NetName=VCC3.3V Pin=J4-3
-Added Pin To Net: NetName=SWDIO Pin=J4-4
-Added Pin To Net: NetName=SWCLK Pin=J4-5
-Added Member To Class: ClassName=Sheet1 Member=Component J4 CON5
-Added Member To Class: ClassName=Sheet1 Member=Component U3 STM32L071RBT6
-Added Room: Name=Sheet1
