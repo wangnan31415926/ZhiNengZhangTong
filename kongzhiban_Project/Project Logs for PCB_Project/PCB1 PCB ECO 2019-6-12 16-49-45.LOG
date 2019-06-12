@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=ELECTRIC_LIMIT_PA8 Pin=J2-3
+Removed Pin From Net: NetName=CHANGE_SEAL_PA11 Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-13
+Removed Pin From Net: NetName=GND Pin=J2-14
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=ELECTRIC_LIMIT_PA8 Pin=U3-41
+Removed Pin From Net: NetName=CHANGE_SEAL_PA11 Pin=U3-44
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=J2-3
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=J2-4
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=U3-56
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=U3-58
+Change Net Name : Old Net Name=CHANGE_SEAL_PA11 New Net Name=ELECTRIC_LIMIT_PB6
+Change Net Name : Old Net Name=ELECTRIC_LIMIT_PA8 New Net Name=CHANGE_SEAL_PB4
+Added Member To Class: ClassName=Sheet1 Member=Component J4 CON5
+Added Room: Name=Sheet1

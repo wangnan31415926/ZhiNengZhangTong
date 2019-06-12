@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\wn\Desktop\zhinengzhangtong_kongzhi\ZhiNengZhangTong\kongzhiban_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~105|ReportField=ReportTime~18:11:13|ReportField=ReportDate~2019/6/12|ReportField=ReportDateTime~2019/6/12 18:11:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/6/12|ReportField=CurrentTime~18:11:09|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\wn\Desktop\zhinengzhangtong_kongzhi\ZhiNengZhangTong\kongzhiban_Project\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/6/12|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\wn\Desktop\zhinengzhangtong_kongzhi\ZhiNengZhangTong\kongzhiban_Project\PCB_Project.PrjPcb
+1|PAD||ANT1|L4G3210|PAD|1
+2|0.1uF||C1, C2, C9, C10, C13, C17, C18, C20, C23, C29, C36|C0402|C|11
+3|100pF||C3, C7|C0402|C|2
+4|22pF||C4, C24, C25, C26, C33|C0402|C|5
+5|220uF/6.3V||C5, C28, C30, C35|C1210-E|C|4
+6|20pF||C6, C8, C11, C12|C0402|C|4
+7|330uF/6.3V||C14|CAP6R3X5R6-SM|C|1
+8|4.7uF||C16|C0603|C|1
+9|2uF||C19|C0402|C|1
+10|1uF||C21, C34|C0402|C|2
+11|10uF||C22, C31|C0603|C|2
+12|2.2uF||C27, C32|C0603|C|2
+13|SMA/UFLR||CON1|IPX_U.FL|SMA/UFLR|1
+14|LED/0603||D1|D1206|LED/0603|1
+15|ESDLC5V0D3|TVS  Vrwm=5V Vc=9.8V 2P SOD323 SMT|D2, D3, D4, D5, D6|SOD-323|TVS_0|5
+16|CON2X9||J1|OLED_2X9SMT|CON2X9|1
+17|CON12||J2|CON_12WT|CON12|1
+18|MICRO_SIM||J3|MICRO_SIM|MICRO_SIM|1
+19|CON5||J4|SIP1X5-2R54|CON5|1
+20|CON5||J5|HDR1X5|CON5|1
+21|47nH||L1|L0402|L|1
+22|S8050||Q1, Q2, Q5|SOT23|NPN-A|3
+23|SI2305||Q3, Q6|SOT23|FDN338P|2
+24|S0805||Q4|SOT23|NPN-A|1
+25|10K||R1, R13, R22, R25, R27|R0402|R|5
+26|4.7K||R2, R7|R0402|R|2
+27|47K||R3, R12|R0402|R|2
+28|100K||R4, R11, R28|R0402|R|3
+29|330R||R5|R0402|R|1
+30|270K||R6, R9|R0402|R|2
+31|0R||R8|R0603|R|1
+32|22K||R10, R14, R31, R32, R35, R36, R38, R39|R0402|R|8
+33|1K||R15, R16, R17, R18, R29|R0402|R|5
+34|2M||R19, R20|R0402|R|2
+35|1M||R21|R0402|R|1
+36|22R||R23, R24, R26, R30, R33, R34, R37|R0402|R|7
+37|XXW-2548||S1, S2|XXW-2548|XXW-2548|2
+38|SW_3X6X5||S3|SW3X6X3R5|SW_3X6X5|1
+39|BC28||U1|BC28|BC28|1
+40|8.000MHz||U2|XTAL4-5X3R2|XTAL_3.2X2.5|1
+41|STM32L071RBT6||U3|QFP64-0R5|STM32L071RBT6|1
+42|TPS78233DDCR||U4|SOT23-5|TPS78233DDCR|1
+43|XC6209B332MR||U5|SOT23-5|LP2980|1
+44|HC-42||U6|BLEMODE|HC-42|1
+45|ATGM336H-5N||U7|ATGM336|ATGM336H-5N|1
+46|32.768KHz||X1|X_MC146|CRYSTAL2|1

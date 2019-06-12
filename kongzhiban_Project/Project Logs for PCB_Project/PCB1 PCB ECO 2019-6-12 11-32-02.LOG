@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=VBAT_OUT Pin=J2-3
+Removed Pin From Net: NetName=VBAT_OUT Pin=J2-4
+Removed Pin From Net: NetName=VBAT Pin=J2-12
+Removed Pin From Net: NetName=GND Pin=J2-13
+Removed Pin From Net: NetName=GND Pin=J2-14
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Pin From Net: NetName=GND Pin=J3-8
+Removed Pin From Net: NetName=VBAT Pin=R20-1
+Added Component: Designator=J5(HDR1X5)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=R10(R0402)
+Added Component: Designator=R38(R0402)
+Added Component: Designator=R39(R0402)
+Added Component: Designator=S3(SW3X6X3R5)
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=VBAT_OUT Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=VCC3.3V Pin=J5-5
+Added Pin To Net: NetName=VBAT Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=VCC3.3V Pin=R10-2
+Added Pin To Net: NetName=VBAT_OUT Pin=R20-1
+Added Pin To Net: NetName=VCC3.3V Pin=R38-2
+Added Pin To Net: NetName=VCC3.3V Pin=R39-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=NRST Pin=S3-2
+Change Net Name : Old Net Name=VBAT New Net Name=NetJ1_1
+Change Net Name : Old Net Name=VBAT_OUT New Net Name=VBAT
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=J2-4
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=U3-44
+Added Net: Name=CHANGE_SEAL_PA11
+Added Pin To Net: NetName=DS1302_CLK Pin=J5-3
+Added Pin To Net: NetName=DS1302_CLK Pin=R39-1
+Added Pin To Net: NetName=DS1302_CLK Pin=U3-29
+Added Net: Name=DS1302_CLK
+Added Pin To Net: NetName=DS1302_IO Pin=J5-2
+Added Pin To Net: NetName=DS1302_IO Pin=R38-1
+Added Pin To Net: NetName=DS1302_IO Pin=U3-30
+Added Net: Name=DS1302_IO
+Added Pin To Net: NetName=DS1302_RST Pin=J5-1
+Added Pin To Net: NetName=DS1302_RST Pin=R10-1
+Added Pin To Net: NetName=DS1302_RST Pin=U3-27
+Added Net: Name=DS1302_RST
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=J2-3
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=U3-41
+Added Net: Name=ELECTRIC_LIMIT_PA8
+Added Member To Class: ClassName=Sheet1 Member=Component J5 CON5
+Added Member To Class: ClassName=Sheet1 Member=Component R8 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R10 22K
+Added Member To Class: ClassName=Sheet1 Member=Component R38 22K
+Added Member To Class: ClassName=Sheet1 Member=Component R39 22K
+Added Member To Class: ClassName=Sheet1 Member=Component S3 SW_3X6X5
+Added Room: Name=Sheet1
