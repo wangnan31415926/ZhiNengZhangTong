@@ -1,0 +1,43 @@
+Added Component: Designator=C7(C1210-E)
+Added Component: Designator=C11(C1210-E)
+Added Component: Designator=J4(CON1X2-2LOCK)
+Added Component: Designator=J5(CON1X2-2LOCK)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q10(SOT23)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VBAT Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-2
+Added Pin To Net: NetName=NetJ4_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=VBAT Pin=Q10-2
+Added Pin To Net: NetName=NetJ5_2 Pin=Q10-3
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=R1-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R1-2
+Added Pin To Net: NetName=VBAT Pin=R2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-2
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=R18-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R18-2
+Added Pin To Net: NetName=VBAT Pin=R19-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R19-2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 220uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component C11 220uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component J4 CON2
+Added Member To Class: ClassName=Sheet1 Member=Component J5 CON2
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 SI2305
+Added Member To Class: ClassName=Sheet1 Member=Component Q10 SI2305
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 100K
+Added Room: Name=Sheet1

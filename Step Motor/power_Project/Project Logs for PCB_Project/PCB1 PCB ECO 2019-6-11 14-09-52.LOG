@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=VBAT_OUT Pin=C2-1
+Removed Pin From Net: NetName=VCC5V Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=D2-1
+Removed Pin From Net: NetName=VBAT_OUT Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=VBAT Pin=J2-1
+Removed Pin From Net: NetName=VBAT_OUT Pin=J2-9
+Removed Pin From Net: NetName=VBAT_OUT Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J2-11
+Removed Pin From Net: NetName=GND Pin=J2-13
+Removed Pin From Net: NetName=GND Pin=J2-14
+Removed Pin From Net: NetName=VCC8V Pin=Q1-9
+Removed Pin From Net: NetName=VCC12V Pin=Q3-9
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Added Component: Designator=C7(C1210-E)
+Added Component: Designator=C11(C1210-E)
+Added Component: Designator=J4(CON1X2-2LOCK)
+Added Component: Designator=J5(CON1X2-2LOCK)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q10(SOT23)
+Added Pin To Net: NetName=VBAT Pin=C2-1
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VBAT Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VBAT Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetD1_2 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=VBAT_OUT Pin=J5-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-3
+Added Pin To Net: NetName=VBAT Pin=Q10-2
+Added Pin To Net: NetName=VBAT_OUT Pin=Q10-3
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=VBAT_OUT New Net Name=NetJ5_2
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=J2-9
+Added Net: Name=CHANGE_SEAL_PA11
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=J2-10
+Added Net: Name=ELECTRIC_LIMIT_PA8
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Net: Name=NetQ10_1
+Added Member To Class: ClassName=Sheet1 Member=Component C7 220uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component C11 220uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component J4 CON2
+Added Member To Class: ClassName=Sheet1 Member=Component J5 CON2
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 SI2305
+Added Member To Class: ClassName=Sheet1 Member=Component Q10 SI2305
+Added Room: Name=Sheet1

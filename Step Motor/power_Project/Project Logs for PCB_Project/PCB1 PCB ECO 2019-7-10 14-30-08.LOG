@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC8V Pin=Q1-9
+Removed Pin From Net: NetName=VCC12V Pin=Q3-9
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=CHARGE_EMPTY Pin=U4-7
+Added Room: Name=Sheet1

@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=GND Pin=J2-13
+Removed Pin From Net: NetName=GND Pin=J2-14
+Removed Pin From Net: NetName=VCC8V Pin=Q1-9
+Removed Pin From Net: NetName=VCC12V Pin=Q3-9
+Removed Pin From Net: NetName=GND Pin=U3-9
+Change Component Comment : Designator=R6 Old Comment=34K New Comment=18K
+Change Component Comment : Designator=R4 Old Comment=240K New Comment=100K
+Change Component Comment : Designator=C25 Old Comment=C New Comment=2.2uF
+Added Component: Designator=C7(C1210-E)
+Added Component: Designator=C11(C0603)
+Added Component: Designator=C12(C0603)
+Added Component: Designator=C14(C0603)
+Added Component: Designator=C28(C0603)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R21(R0805)
+Added Component: Designator=R22(R0805)
+Added Component: Designator=R23(R0603)
+Added Component: Designator=R24(R0603)
+Added Component: Designator=R25(R0603)
+Added Component: Designator=R26(R0603)
+Added Component: Designator=U4(SOIC8E)
+Added Component: Designator=U5(QFN28)
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCC5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetJ3_2 Pin=C12-1
+Added Pin To Net: NetName=NetJ4_2 Pin=C12-2
+Added Pin To Net: NetName=NetJ5_2 Pin=C14-1
+Added Pin To Net: NetName=VCC12V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetQ10_1 Pin=C28-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-2
+Added Pin To Net: NetName=NetJ3_1 Pin=Q2-3
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=R1-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R1-2
+Added Pin To Net: NetName=VBAT Pin=R2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-2
+Added Pin To Net: NetName=VCC5V Pin=R18-1
+Added Pin To Net: NetName=CHARGE_LED Pin=R18-2
+Added Pin To Net: NetName=CHARGE_LED Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VCC5V Pin=U4-4
+Added Pin To Net: NetName=VBAT Pin=U4-5
+Added Pin To Net: NetName=CHARGE_EMPTY Pin=U4-7
+Added Pin To Net: NetName=VCC5V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=NetJ3_2 Pin=U5-4
+Added Pin To Net: NetName=NetJ4_2 Pin=U5-5
+Added Pin To Net: NetName=NetJ5_2 Pin=U5-6
+Added Pin To Net: NetName=NetQ10_1 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=NetJ3_1 Pin=U5-15
+Added Pin To Net: NetName=FI Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=BI Pin=U5-19
+Added Pin To Net: NetName=VCC12V Pin=U5-22
+Added Pin To Net: NetName=VCC12V Pin=U5-28
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=VDD_MORTOR
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetQ10_1 New Net Name=NetC28_2
+Added Pin To Net: NetName=1A Pin=P1-3
+Added Pin To Net: NetName=1A Pin=U5-24
+Added Net: Name=1A
+Added Pin To Net: NetName=1B Pin=P1-4
+Added Pin To Net: NetName=1B Pin=U5-21
+Added Net: Name=1B
+Added Pin To Net: NetName=2A Pin=P1-2
+Added Pin To Net: NetName=2A Pin=U5-26
+Added Net: Name=2A
+Added Pin To Net: NetName=2B Pin=P1-1
+Added Pin To Net: NetName=2B Pin=U5-1
+Added Net: Name=2B
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U4-6
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U4-2
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U5-27
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U5-23
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=R25-2
+Added Pin To Net: NetName=NetR23_1 Pin=U5-17
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U5-2
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U5-12
+Added Pin To Net: NetName=NetR26_1 Pin=U5-14
+Added Net: Name=NetR26_1
+Added Member To Class: ClassName=Sheet1 Member=Component C7 220uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component C11 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CON12
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 SI2305
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 22K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R20 1.3K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 0.1R
+Added Member To Class: ClassName=Sheet1 Member=Component R22 0.1R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R25 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R26 100K
+Added Member To Class: ClassName=Sheet1 Member=Component U4 TP4056
+Added Member To Class: ClassName=Sheet1 Member=Component U5 A4988
+Added Room: Name=Sheet1

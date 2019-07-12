@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC5V Pin=D1-1
+Removed Pin From Net: NetName=VBAT Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=VBAT Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-11
+Removed Pin From Net: NetName=GND Pin=J2-13
+Removed Pin From Net: NetName=GND Pin=J2-14
+Removed Pin From Net: NetName=VCC8V Pin=Q1-9
+Removed Pin From Net: NetName=VBAT Pin=Q2-3
+Removed Pin From Net: NetName=VCC12V Pin=Q3-9
+Removed Pin From Net: NetName=VCC5V Pin=R1-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=47K New Comment=100K
+Added Pin To Net: NetName=VBAT Pin=C2-1
+Added Pin To Net: NetName=VBAT Pin=J2-11
+Added Pin To Net: NetName=VBAT Pin=Q2-2
+Added Pin To Net: NetName=VBAT Pin=R2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-2
+Added Pin To Net: NetName=CHANGE_SEAL_PA11 Pin=J2-9
+Added Net: Name=CHANGE_SEAL_PA11
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=J2-10
+Added Pin To Net: NetName=ELECTRIC_LIMIT_PA8 Pin=R1-1
+Added Net: Name=ELECTRIC_LIMIT_PA8
+Added Pin To Net: NetName=NetJ4_2 Pin=Q2-3
+Added Net: Name=NetJ4_2
+Added Net: Name=NetJ5_2
+Added Net: Name=NetQ10_1
+Added Room: Name=Sheet1
